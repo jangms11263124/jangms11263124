@@ -1,4 +1,7 @@
-# 장민석 · Jang Minseok
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="장민석 — Frontend Developer">
+</picture>
 
 실시간 인터랙션이 있는 웹을 만듭니다.<br>
 프론트엔드에서 출발해, 필요하다면 백엔드와 AI까지 영역을 가리지 않고 파고듭니다.<br>
