@@ -111,8 +111,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangms11263124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=jangms11263124&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com?user=jangms11263124&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="180" />
 </div>
 
 <br>
