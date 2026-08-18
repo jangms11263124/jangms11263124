@@ -55,7 +55,7 @@
 
 ## Projects
 
-### 싸스케 (SSASUKAE) — 실시간 화상 노래방
+### [싸스케 (SSASUKAE) — 실시간 화상 노래방](https://github.com/jangms11263124/ssasukae)
 
 > SSAFY 15기 공통 프로젝트 **우수상** · 6인 팀 · 2026.07 – 2026.08
 
