@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:BF91F3&height=220&text=%EC%9E%A5%EB%AF%BC%EC%84%9D&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=SSAFY%2015th%20%C2%B7%20Software%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:BF91F3&height=220&text=%EC%9E%A5%EB%AF%BC%EC%84%9D&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=SSAFY%2015th%20%C2%B7%20Software%20Developer&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 **실시간 인터랙션이 있는 웹을 좋아하고, 영역을 한정하지 않고 성장하는 개발자 지망생입니다.**
 
