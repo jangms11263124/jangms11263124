@@ -1,13 +1,17 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="장민석 — Frontend Developer">
+  <img src="assets/header-light.svg" width="100%" alt="장민석 — 실시간 인터랙션이 있는 웹을 만듭니다">
 </picture>
 
-실시간 인터랙션이 있는 웹을 만듭니다.<br>
-프론트엔드에서 출발해, 필요하다면 백엔드와 AI까지 영역을 가리지 않고 파고듭니다.<br>
-SSAFY 15기에서 공부하며, 배운 것은 매일 [TIL](https://github.com/jangms11263124/TIL)에 기록합니다.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,py,django,git" alt="React, Next.js, TypeScript, JavaScript, Vue, Python, Django, Git" height="44" />
 
 [blog](https://blog.naver.com/jangms1126) · [email](mailto:jangms11263124@gmail.com) · [til](https://github.com/jangms11263124/TIL)
+
+프론트엔드에서 출발해 백엔드·AI까지 — 배운 것은 매일 [TIL](https://github.com/jangms11263124/TIL)에 기록합니다.
+
+</div>
 
 <br>
 
