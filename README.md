@@ -38,6 +38,10 @@
 
 <img src="https://skillicons.dev/icons?i=py,django,sqlite" alt="Python, Django, SQLite" />
 
+**AI**
+
+**OpenAI API**(GPT·Whisper)와 **Gemini**를 활용합니다 — FinEdu에서 2단계 RAG 추천 파이프라인을 구현했고, 싸스케에서 STT + RAG 가창 피드백 파이프라인을 기획했습니다.
+
 **Tools & Collaboration**
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode" alt="Git, GitHub, GitLab, Figma, VS Code" />
