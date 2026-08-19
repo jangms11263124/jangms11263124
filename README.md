@@ -2,11 +2,11 @@
 
 > 실시간 인터랙션이 있는 웹을 만듭니다. 문제를 덮지 않고, 구조부터 고칩니다.
 
-📫 [Blog](https://blog.naver.com/jangms1126) · [Email](mailto:jangms11263124@gmail.com) · [TIL](https://github.com/jangms11263124/TIL)
+[Blog](https://blog.naver.com/jangms1126) · [Email](mailto:jangms11263124@gmail.com) · [TIL](https://github.com/jangms11263124/TIL)
 
 ---
 
-## 💬 About Me
+## About Me
 
 **소리와 영상이 실시간으로 오가는 웹**, 사용자가 만지는 순간 반응하는 경험을 만드는 일에 강점이 있습니다. Web Audio 오디오 파이프라인 설계부터 WebRTC 화상 스트림, 제스처 인터랙션까지 — 실시간 미디어를 다루는 프론트엔드가 저의 무기입니다.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ 일하는 방식
+## 일하는 방식
 
 - **꾸준함이 실력** — 하루도 빠짐없이 쓰는 TIL처럼, 매일의 축적이 성장을 만든다고 믿습니다.
 - **함께의 힘** — 반장·CA로 학급을 운영하며, 동료의 문제를 함께 풀 때 팀 전체가 빨라진다는 걸 배웠습니다.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🎤 Projects
+## Projects
 
 ### [싸스케 — 실시간 화상 노래방](https://github.com/jangms11263124/ssasukae)
 
@@ -70,7 +70,7 @@ Vue 3 + Pinia SPA 프론트엔드 전반을 담당했고, 2인 팀이라 Django 
 
 ---
 
-## 🌱 SSAFY에서
+## SSAFY에서
 
 - **SSAFY 15기 (구미캠퍼스)** — 2026.01 ~ 재학 중 · 1학기 이수 · 공통 프로젝트 우수상
 - **반장 · CA** — 학급 운영과 행사 진행을 이끌었습니다.
