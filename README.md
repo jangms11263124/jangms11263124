@@ -1,30 +1,94 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="장민석 — 실시간 인터랙션이 있는 웹을 만듭니다">
-</picture>
+# 안녕하세요! 장민석입니다.
 
-<div align="center">
+## 💬 About Me
 
-[blog](https://blog.naver.com/jangms1126) · [email](mailto:jangms11263124@gmail.com) · [til](https://github.com/jangms11263124/TIL)
+**실시간 인터랙션이 있는 웹을 만드는 개발자입니다.** 화면 너머에서 소리와 영상이 실시간으로 오가는 서비스, 사용자가 만지는 순간 반응하는 경험을 만드는 일에 강점을 가지고 있습니다.
 
-</div>
+삼성 청년 SW·AI 아카데미(**SSAFY 15기**)에 입과해 개발 역량을 체계적으로 쌓고 있으며, 배운 것을 잊지 않기 위해 [TIL](https://github.com/jangms11263124/TIL)에 **매일 학습 기록**을 남기고 있습니다. 반장과 CA로 학급 운영을 이끌고, SSAFY 공식 기자단 **'싸피셜'** 기자로 캠퍼스의 이야기를 [블로그](https://blog.naver.com/jangms1126)에 기록해 왔습니다.
 
-<a href="https://github.com/jangms11263124/ssasukae">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-ssasukae-dark.svg">
-  <img src="assets/card-ssasukae-light.svg" width="100%" alt="싸스케 — 실시간 화상 노래방 · SSAFY 공통 프로젝트 우수상">
-</picture>
-</a>
+특히 실시간 화상 노래방 **'싸스케'** 프로젝트에서 Web Audio 기반 보컬 엔진과 제스처 인터랙션을 주도적으로 개발해 **SSAFY 공통 프로젝트 우수상**을 수상했습니다.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-finedu-dark.svg">
-  <img src="assets/card-finedu-light.svg" width="100%" alt="FinEdu — 금융 교육 플랫폼 · SSAFY 관통 프로젝트">
-</picture>
+📫 [Blog](https://blog.naver.com/jangms1126) · [Email](mailto:jangms11263124@gmail.com)
 
-<div align="center">
+---
 
-SSAFY 공식 기자단 '싸피셜' · 반장/CA · 입과 자기소개 발표 1위
+## 🎯 핵심 가치관
 
-배운 것은 매일 [TIL](https://github.com/jangms11263124/TIL)에 기록합니다.
+- **꾸준함이 실력**: 하루도 빠짐없이 기록하는 TIL처럼, 매일의 축적이 성장을 만든다고 믿습니다.
+- **함께의 힘**: 반장·CA로 팀을 운영하며, 동료의 문제를 함께 풀 때 팀 전체가 빨라진다는 것을 배웠습니다.
+- **끝까지 파고들기**: 문제를 임시로 덮지 않고 구조부터 다시 설계합니다. 오디오 엔진의 라우팅을 직렬에서 병렬로 갈아엎은 것처럼요.
 
-</div>
+---
+
+## 🌟 강점
+
+### 💻 프론트엔드
+- **실시간 미디어 처리**: Web Audio API 기반 오디오 파이프라인 설계, WebRTC(OpenVidu) 화상 스트림, 실시간 이벤트(STOMP) 연동 경험.
+- **인터랙션 구현력**: 손 제스처 인식으로 DSP를 실시간 제어하고, 카드 발동 연출 같은 타격감 있는 UI를 만듭니다.
+- **두 생태계 경험**: React/Next.js와 Vue 3 프로젝트를 모두 완주해 프레임워크에 매이지 않습니다.
+
+### 🤝 소프트 스킬
+- **전달력**: SSAFY 입과 자기소개 발표 1위, 싸피셜 기자 활동, 공통 프로젝트 최종 발표 자료 제작.
+- **리더십**: 반장·CA로 학급 행사와 운영을 주도.
+- **기획 참여**: 싸스케 AI 파트(STT + RAG 가창 피드백) 기획 담당.
+
+---
+
+## 🛠️ 나의 기술 스택
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=py,django" alt="Python, Django" />
+
+**Tools & Collaboration**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode" alt="Git, GitHub, GitLab, Figma, VS Code" />
+
+---
+
+## 🌟 대표 프로젝트 요약
+
+### 1. [싸스케 — 실시간 화상 노래방](https://github.com/jangms11263124/ssasukae)
+
+**프로젝트 소개**
+친구들과 화상으로 만나 함께 부르고, 공격 카드로 서로를 방해하고, AI에게 가창 피드백을 받는 실시간 화상 노래방 서비스입니다. (SSAFY 15기 공통 프로젝트 · 6인 팀 · 2026.07 ~ 2026.08)
+
+**주요 특징**
+- OpenVidu(WebRTC) 화상 + STOMP 실시간 이벤트 기반 멀티 유저 공연
+- 수성전(카드 배틀) 모드: 공격 카드와 손 제스처 DSP 제어로 노래 대결
+- 실시간 가창 채점(피치 검출)과 AI 가창 피드백(Whisper STT + RAG)
+
+**나의 기여 (Frontend · AI 파트 기획)**
+- Web Audio API 기반 **보컬 오디오 엔진** 설계·구현 — MR/마이크 채널을 분리하는 병렬 라우팅으로 재설계해 반주 키와 목소리 이펙트를 독립 제어
+- **RNNoise(WASM) 노이즈 억제**를 데모로 검증한 뒤 서비스에 이식, SoundTouch AudioWorklet으로 실시간 템포·피치 시프트 적용
+- 손 제스처 인식으로 음정·템포를 조절하는 **제스처 DSP 인터랙션** 개발
+- 수성전 카드 발동 연출, 방 입장·진행 플로우, AI 피드백·마이페이지 화면 개발
+- AI 파트 기획 및 결선 발표 자료 제작
+
+**성과 및 회고**
+- **SSAFY 공통 프로젝트 우수상** 수상
+- 초기 직렬 오디오 구조에서 MR 키 변경 시 목소리까지 변조되는 문제를 발견하고, 실제 믹싱 콘솔 원리를 학습해 병렬 라우팅으로 재설계 — 문제를 덮지 않고 구조부터 고치는 경험을 얻었습니다.
+
+### 2. FinEdu — 사회초년생 금융 교육 플랫폼
+
+**프로젝트 소개**
+경제·금융 입문 콘텐츠를 모아 AI가 사용자 활동 기록 기반으로 맞춤 추천하는 금융 교육 서비스입니다. (SSAFY 15기 관통 프로젝트 · 2인 팀 · 2026.06)
+
+**주요 특징**
+- Gemini → GPT-4o-mini로 이어지는 2단계 RAG 파이프라인 콘텐츠 추천
+- AI가 매일 출제하는 오늘의 퀴즈, 커뮤니티(게시글·댓글·좋아요), 카카오맵 교육 행사 지도
+
+**나의 기여**
+- Vue 3 + Pinia SPA 프론트엔드 전반 담당, 2인 팀 특성상 Django REST Framework 백엔드 구현에도 참여
+
+---
+
+## 🎓 교육
+
+- **삼성 청년 SW·AI 아카데미 (SSAFY) 15기** — 2026.01 ~ 재학 중 (구미캠퍼스)
+  - 1학기 이수, 공통 프로젝트 우수상
+  - 반장 · CA · 공식 기자단 '싸피셜' 활동
