@@ -5,28 +5,26 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,py,django,git" alt="React, Next.js, TypeScript, JavaScript, Vue, Python, Django, Git" height="44" />
-
 [blog](https://blog.naver.com/jangms1126) · [email](mailto:jangms11263124@gmail.com) · [til](https://github.com/jangms11263124/TIL)
-
-프론트엔드에서 출발해 백엔드·AI까지 — 배운 것은 매일 [TIL](https://github.com/jangms11263124/TIL)에 기록합니다.
 
 </div>
 
-<br>
+<a href="https://github.com/jangms11263124/ssasukae">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-ssasukae-dark.svg">
+  <img src="assets/card-ssasukae-light.svg" width="100%" alt="싸스케 — 실시간 화상 노래방 · SSAFY 공통 프로젝트 우수상">
+</picture>
+</a>
 
-### Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-finedu-dark.svg">
+  <img src="assets/card-finedu-light.svg" width="100%" alt="FinEdu — 금융 교육 플랫폼 · SSAFY 관통 프로젝트">
+</picture>
 
-**[싸스케 — 실시간 화상 노래방](https://github.com/jangms11263124/ssasukae)** · SSAFY 공통 프로젝트 우수상<br>
-Web Audio 보컬 엔진(병렬 라우팅·RNNoise·실시간 피치 시프트), 손 제스처 DSP 제어, 카드 배틀 연출 담당<br>
-`Next.js` `React` `TypeScript` `Web Audio API`
+<div align="center">
 
-**FinEdu — 사회초년생 금융 교육 플랫폼** · SSAFY 관통 프로젝트<br>
-2인 팀에서 프론트엔드 전반과 2단계 RAG 콘텐츠 추천 구현<br>
-`Vue 3` `Django REST Framework`
+SSAFY 공식 기자단 '싸피셜' · 반장/CA · 입과 자기소개 발표 1위
 
-<br>
+배운 것은 매일 [TIL](https://github.com/jangms11263124/TIL)에 기록합니다.
 
-### Etc
-
-SSAFY 공식 기자단 '싸피셜' 기자 · 반장/CA · 입과 자기소개 발표 1위
+</div>
