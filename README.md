@@ -43,7 +43,7 @@
 
 **Tools & Collaboration**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode" alt="Git, GitHub, GitLab, Figma, VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode" alt="Git, GitHub, GitLab, Figma, Postman, VS Code" />
 
 `Jira` `Google Stitch`
 
