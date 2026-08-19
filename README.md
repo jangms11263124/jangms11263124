@@ -1,10 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/mark-dark.svg">
-  <img src="assets/mark-light.svg" width="72" alt="JM">
-</picture>
-
 # 안녕하세요, 매일 기록하며 성장하는 개발자 장민석입니다.
 
 실시간 인터랙션이 있는 웹을 만듭니다. 문제를 덮지 않고, 구조부터 고칩니다.
@@ -37,15 +32,17 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,pinia,tailwind,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Pinia, Tailwind CSS, Vite" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=py,django" alt="Python, Django" />
+<img src="https://skillicons.dev/icons?i=py,django,sqlite" alt="Python, Django, SQLite" />
 
 **Tools & Collaboration**
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode" alt="Git, GitHub, GitLab, Figma, VS Code" />
+
+그 외 — **Jira**로 협업 이슈를 관리하고, **Google Stitch**로 화면을 설계합니다.
 
 ---
 
