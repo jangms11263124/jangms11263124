@@ -31,7 +31,7 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,pinia,tailwind,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Pinia, Tailwind CSS, Vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue" />
 
 **Backend**
 
@@ -75,7 +75,7 @@
   - Vue 3 + Pinia SPA 프론트엔드 전반
   - **2단계 RAG 추천 파이프라인** 구현 (1차 필터링 → 맞춤 추천 생성)
   - AI 오늘의 퀴즈 · 커뮤니티(게시글·댓글·좋아요) · 카카오맵 교육 행사 지도
-- **기술**: `Vue 3` `Pinia` `Vite` `Django REST Framework` `SQLite`
+- **기술**: `Vue 3` `Pinia` `Django REST Framework` `SQLite`
 
 ---
 
