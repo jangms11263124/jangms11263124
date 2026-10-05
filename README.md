@@ -51,7 +51,7 @@
 
 ## Projects
 
-### [TIMO — 블록체인 기반 공연 티켓 예매·양도 앱](https://github.com/jangms11263124/timo)
+### [TIMO — 블록체인 기반 공연 티켓 예매·양도 앱](https://github.com/jangms11263124/TIMO)
 
 <!-- TODO(민석): "한 일"·"배운 것" 본문 채우기. timo 레포 README 의 소제목과 맞추면 된다. -->
 
