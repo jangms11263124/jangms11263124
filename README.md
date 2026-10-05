@@ -31,7 +31,7 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,flutter,dart" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Flutter, Dart" />
 
 **Backend**
 
@@ -50,6 +50,21 @@
 ---
 
 ## Projects
+
+### [TIMO — 블록체인 기반 공연 티켓 예매·양도 앱](https://github.com/jangms11263124/timo)
+
+<!-- TODO(민석): "한 일"·"배운 것" 본문 채우기. timo 레포 README 의 소제목과 맞추면 된다. -->
+
+- **서비스**: 공연 티켓을 예매하고, 입장 QR 로 검표하고, 못 가게 된 티켓은 양도 마켓에 올리고, 다녀온 공연은 소장품으로 남기는 모바일 티켓 앱
+- **팀 / 기간**: SSAFY 특화 프로젝트 · 6인 팀 · 2026.08 ~ 2026.09
+- **역할**: Frontend (Flutter)
+- **한 일**:
+  - 예매 흐름 — 네이버 CAPTCHA · 구역/좌석 선택 · 포인트 결제 · 발행 대기 화면
+  - 입장 QR — 30초 만료·새로고침 설계, 조용한 푸시로 입장 완료 전환
+  - 내 티켓 · 양도 마켓 등록/취소 · 알림함 · 찜 화면과 API 연동
+  - 타이머 화면 위젯 테스트, 326 파일 코드·주석 정리 기준 수립
+<!-- TODO(민석): "배운 것" 한 줄 추가 — 예) - **배운 것**: … -->
+- **기술**: `Flutter` `Dart` `dio` `Hive` `Firebase Cloud Messaging`
 
 ### [싸스케 — 실시간 화상 노래방](https://github.com/jangms11263124/ssasukae)
 
