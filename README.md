@@ -1,10 +1,10 @@
 <div align="center">
 
-# 안녕하세요, 매일 기록하며 성장하는 개발자 장민석입니다.
+# 안녕하세요, 배운 걸 기록하며 성장하는 개발자 장민석입니다.
 
 실시간 인터랙션이 있는 웹을 만듭니다. 문제를 덮지 않고, 구조부터 고칩니다.
 
-<a href="https://blog.naver.com/jangms1126"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-blog-dark.svg"><img src="assets/btn-blog-light.svg" height="36" alt="Blog"></picture></a>&nbsp;<a href="mailto:jangms11263124@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="36" alt="Email"></picture></a>&nbsp;<a href="https://github.com/jangms11263124/TIL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-til-dark.svg"><img src="assets/btn-til-light.svg" height="36" alt="TIL"></picture></a>
+<a href="https://blog.naver.com/jangms1126"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-blog-dark.svg"><img src="assets/btn-blog-light.svg" height="36" alt="Blog"></picture></a>&nbsp;<a href="mailto:jangms1126@naver.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="36" alt="Email"></picture></a>&nbsp;<a href="https://github.com/jangms11263124/TIL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-til-dark.svg"><img src="assets/btn-til-light.svg" height="36" alt="TIL"></picture></a>
 
 </div>
 
@@ -13,15 +13,15 @@
 ## About Me
 
 - **만드는 것**: 실시간 인터랙션이 있는 웹 — Web Audio 오디오 파이프라인, WebRTC 화상, 제스처 인터랙션
-- **경험**: React/Next.js와 Vue 3 프로젝트를 모두 완주 — 프레임워크에 매이지 않습니다
-- **습관**: 배운 것은 [TIL](https://github.com/jangms11263124/TIL)에 매일 기록
+- **경험**: Next.js·Vue 3 웹부터 Flutter 모바일 앱까지 SSAFY 프로젝트 네 개를 모두 완주 — 프레임워크에 매이지 않습니다
+- **습관**: 배운 것은 [TIL](https://github.com/jangms11263124/TIL)에 기록
 - **대표 성과**: SSAFY 관통·공통 프로젝트 **연속 우수상** — FinEdu, 싸스케
 
 ---
 
 ## 일하는 방식
 
-- **꾸준함이 실력**: 하루도 빠짐없이 쓰는 TIL처럼, 매일의 축적이 성장을 만든다고 믿습니다
+- **꾸준함이 실력**: 배운 걸 TIL로 남기는 것처럼, 작은 기록이 쌓여 실력이 된다고 믿습니다
 - **함께의 힘**: 반장·CA로 학급을 운영하며, 동료의 문제를 함께 풀 때 팀 전체가 빨라진다는 걸 배웠습니다
 - **끝까지 파고들기**: 임시방편 대신 구조를 다시 설계합니다 — 오디오 엔진 라우팅을 직렬에서 병렬로 갈아엎은 것처럼
 
@@ -31,7 +31,7 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,flutter,dart" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Flutter, Dart" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,threejs,flutter,dart" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS, three.js, Flutter, Dart" />
 
 **Backend**
 
@@ -53,17 +53,15 @@
 
 ### [TIMO — 블록체인 기반 공연 티켓 예매·양도 앱](https://github.com/jangms11263124/TIMO)
 
-<!-- TODO(민석): "한 일"·"배운 것" 본문 채우기. timo 레포 README 의 소제목과 맞추면 된다. -->
-
 - **서비스**: 공연 티켓을 예매하고, 입장 QR 로 검표하고, 못 가게 된 티켓은 양도 마켓에 올리고, 다녀온 공연은 소장품으로 남기는 모바일 티켓 앱
 - **팀 / 기간**: SSAFY 특화 프로젝트 · 6인 팀 · 2026.08 ~ 2026.09
 - **역할**: Frontend (Flutter)
 - **한 일**:
-  - 예매 흐름 — 네이버 CAPTCHA · 구역/좌석 선택 · 포인트 결제 · 발행 대기 화면
-  - 입장 QR — 30초 만료·새로고침 설계, 조용한 푸시로 입장 완료 전환
-  - 내 티켓 · 양도 마켓 등록/취소 · 알림함 · 찜 화면과 API 연동
-  - 타이머 화면 위젯 테스트, 326 파일 코드·주석 정리 기준 수립
-<!-- TODO(민석): "배운 것" 한 줄 추가 — 예) - **배운 것**: … -->
+  - 예매 흐름 — 네이버 CAPTCHA · 44px 고정 칸으로 만든 사다리꼴 좌석표 · 포인트 결제 · 발행 대기 화면
+  - 입장 QR — 30초 만료 후 새로고침 방식, 조용한 푸시와 2초 확인으로 입장 완료 전환
+  - 내 티켓 상태별 카드·메뉴 잠금 규칙, 양도 마켓 등록/취소, 알림함
+  - 타이머 화면 위젯 테스트, 326개 파일 코드·주석 정리
+- **배운 것**: 326개 파일을 정리할 때 테스트 860개가 안전망이 되는 걸 겪어서, 다음 프로젝트부터는 첫 기능부터 테스트를 같이 쓰고 있습니다
 - **기술**: `Flutter` `Dart` `dio` `Hive` `Firebase Cloud Messaging`
 
 ### [싸스케 — 실시간 화상 노래방](https://github.com/jangms11263124/ssasukae)
@@ -81,7 +79,7 @@
 - **배운 것**: MR 키 변경 시 목소리까지 변조되는 직렬 구조 문제를 믹싱 콘솔 원리를 학습해 병렬 라우팅으로 재설계 — 문제를 덮지 않고 구조부터 고치는 법
 - **기술**: `Next.js` `React` `TypeScript` `Tailwind CSS` `Web Audio API` `OpenVidu(WebRTC)`
 
-### FinEdu — 사회초년생 금융 교육 플랫폼
+### [FinEdu — 사회초년생 금융 교육 플랫폼](https://github.com/jangms11263124/finedu)
 
 - **서비스**: 경제·금융 입문 콘텐츠를 AI가 사용자 활동 기록 기반으로 맞춤 추천하는 교육 서비스
 - **팀 / 기간**: SSAFY 관통 프로젝트 · 2인 팀 · 2026.06
@@ -97,7 +95,7 @@
 
 ## SSAFY에서
 
-- **교육**: 삼성 청년 SW·AI 아카데미 15기 (구미캠퍼스) · 2026.01 ~ 재학 중 · 1학기 이수
+- **교육**: 삼성 청년 SW·AI 아카데미 15기 (구미캠퍼스) · 2026.01 ~ 재학 중 · 관통·공통·특화·자율 프로젝트 완료
 - **수상**: 관통 프로젝트 **우수상** · 공통 프로젝트 **우수상** · 입과 자기소개 발표 **1위**
-- **리더십**: 반장 · CA — 학급 운영과 행사 진행
+- **리더십**: 반장 · CA — 학급 운영과 행사 진행 · 자율 프로젝트 팀장
 - **기자단**: SSAFY 공식 기자단 '싸피셜' — 캠퍼스 이야기를 [블로그](https://blog.naver.com/jangms1126)에 기록
