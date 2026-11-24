@@ -2,7 +2,7 @@
 
 # 안녕하세요, 배운 걸 기록하며 성장하는 개발자 장민석입니다.
 
-실시간 인터랙션이 있는 웹을 만듭니다. 문제를 덮지 않고, 구조부터 고칩니다.
+실시간 인터랙션이 있는 서비스를 만듭니다. 문제를 덮지 않고, 구조부터 고칩니다.
 
 <a href="https://blog.naver.com/jangms1126"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-blog-dark.svg"><img src="assets/btn-blog-light.svg" height="36" alt="Blog"></picture></a>&nbsp;<a href="mailto:jangms1126@naver.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="36" alt="Email"></picture></a>&nbsp;<a href="https://github.com/jangms11263124/TIL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-til-dark.svg"><img src="assets/btn-til-light.svg" height="36" alt="TIL"></picture></a>
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-- **만드는 것**: 실시간 인터랙션이 있는 웹 — Web Audio 오디오 파이프라인, WebRTC 화상, 제스처 인터랙션
+- **만드는 것**: 실시간 인터랙션이 있는 서비스 — Web Audio 오디오 파이프라인, WebRTC 화상, 제스처 인터랙션, 모바일 입장 QR
 - **경험**: Next.js·Vue 3 웹부터 Flutter 모바일 앱까지 SSAFY 프로젝트 네 개를 모두 완주 — 프레임워크에 매이지 않습니다
 - **습관**: 배운 것은 [TIL](https://github.com/jangms11263124/TIL)에 기록
 - **대표 성과**: SSAFY 관통·공통 프로젝트 **연속 우수상** — FinEdu, 싸스케
